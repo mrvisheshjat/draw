@@ -1,0 +1,12 @@
+#iframe {
+  position: absolute;
+  left: 1px;
+  top: 50px;
+}
+
+#canvas {
+  border:2px solid #00000;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
