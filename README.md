@@ -39,7 +39,8 @@ If you have any questions, suggestions, or issues, please feel free to reach out
 
 - Name: [Vishesh Jat]
 - Email: [jatvisheshjat01@gmail.com]
-- Project Link: [to draw click here] (https://mrvisheshjat.github.io/draw/main.html)
+Project Link: [Draw here](https://mrvisheshjat.github.io/draw/main.html)
+
 
 
 Happy drawing! 🎨
